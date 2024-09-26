@@ -7,6 +7,17 @@
 
 
 <style>
+.rectangle {
+Margin:-10px;
+width:1525px;
+height: 175px;
+background-color: #E5743D;
+Position:relative;
+Bottom:0px;
+Right:50px;
+Font-size:50px;
+Text-align:center;
+}
 .header {
   padding: 60px;
   text-align: center;
