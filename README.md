@@ -7,18 +7,13 @@
 
 
 <style>
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
 
-.rectangle {
-Margin:-10px;
-width:1525px;
-height: 175px;
-background-color: #E5743D;
-Position:relative;
-Bottom:0px;
-Right:50px;
-Font-size:50px;
-Text-align:center;
-}
 .line{
 	margin:-10px;
 	width:1475px;
@@ -73,7 +68,10 @@ Font-size:40px;
 }
 </style>
 
-
+<div class="header">
+  <h1>Ying-Roman Photography</h1>
+  <p>Free 4x6 prints with a purchase of $20 or more</p>
+</div>
 <h1> 
 <div class="rectangle"><br>Ying-Roman Photography
 </div>
