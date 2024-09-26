@@ -82,7 +82,7 @@ class="line"><br></div>
 </h1>
 </head>
 <body>
-<img src="[https://github.com/shadowmaster42/shadowmaster42.github.io/blob/main/IMG_0407.jpg](https://github.com/shadowmaster42/shadowmaster42.github.io/blob/main/IMG_0407.jpg?raw=true)" width="600px" height="auto" alt=""/>
+<img src="IMG_0407.jpg" width="600px" height="auto" alt=""/>
 </body>
 <body2><img src="file:///Macintosh HD/Users/mateoroman/Desktop/first webpage/IMG_1784.jpeg" width="400" height="auto" text-align="center" alt=""/>
 </body2>
